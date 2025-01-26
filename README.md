@@ -2,7 +2,8 @@
 # Discord Error Logger 📢
 
 [![npm version](https://img.shields.io/npm/v/error-logger.svg)](https://www.npmjs.com/package/discord-error-logger)
-[![License](https://img.shields.io/npm/l/error-logger.svg)](LICENSE)
+
+[![License](https://img.shields.io/npm/l/error-logger.svg)](https://github.com/juzarantri/discord-error-logger/blob/main/LICENSE)
 
 A simple utility to send error logs to a **Discord** channel via a webhook. This is useful for monitoring errors in production environments by sending detailed error information, including stack traces, user details, and environment information.
 
@@ -71,7 +72,7 @@ DISCORD_WEBHOOK_URL="https://discord.com/api/webhooks/your-webhook-url"
 
 ## 📝 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](https://fd.org/licenses/MIT) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/juzarantri/discord-error-logger/blob/main/LICENSE) file for details.
 
 ## 📚 Additional Information
 
