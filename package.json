@@ -1,0 +1,21 @@
+{
+  "name": "discord-error-logger",
+  "version": "1.0.1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "echo '🎉 Error Logger installed! Run `import { sendErrorToDiscord } from \"discord-error-logger\"` to use it.'"
+  },
+  "type": "module",
+  "keywords": [
+    "error-logging",
+    "discord",
+    "monitoring"
+  ],
+  "author": "Juzar Antri",
+  "license": "MIT",
+  "description": "A simple Discord error logging package",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
