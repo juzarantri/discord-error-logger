@@ -1,6 +1,6 @@
 {
   "name": "discord-error-logger",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +12,10 @@
     "discord",
     "monitoring"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juzarantri/discord-error-logger"
+  },
   "author": "Juzar Antri",
   "license": "MIT",
   "description": "A simple Discord error logging package",
